@@ -1,0 +1,135 @@
+[
+	{
+		"id": "ENGLISH",
+		"name": "Inglês",
+		"weight": 10,
+		"levels": [
+			{
+				"label": "Reading",
+				"value": 30
+			},
+			{
+				"label": "Writing",
+				"value": 40
+			},
+			{
+				"label": "Listening + Speaking",
+				"value": 30
+			}
+		]
+	},
+	{
+		"id": "PROGRAMMING",
+		"name": "Programação",
+		"weight": 20,
+		"levels": [
+			{
+				"label": "Orientação a objetos",
+				"value": 10
+			},
+			{
+				"label": "Javascript",
+				"value": 60
+			},
+			{
+				"label": "Typescript",
+				"value": 30
+			}
+		]
+	},
+	{
+		"id": "WEBDESIGN",
+		"name": "Web Design",
+		"weight": 10,
+		"levels": [
+			{
+				"label": "HTML",
+				"value": 10
+			},
+			{
+				"label": "CSS",
+				"value": 60
+			},
+			{
+				"label": "SASS",
+				"value": 30
+			}
+		]
+	},
+	{
+		"id": "DATABASES",
+		"name": "Bancos de Dados",
+		"weight": 10,
+		"levels": [
+			{
+				"label": "SQL",
+				"value": 10
+			},
+			{
+				"label": "NoSQL",
+				"value": 30
+			},
+			{
+				"label": "MongoDB",
+				"value": 60
+			}
+		]
+	},
+	{
+		"id": "NETWORKING",
+		"name": "Redes",
+		"weight": 20,
+		"levels": [
+			{
+				"label": "HTTP",
+				"value": 10
+			},
+			{
+				"label": "WebSockets",
+				"value": 60
+			},
+			{
+				"label": "P2P",
+				"value": 30
+			}
+		]
+	},
+	{
+		"id": "STATISTICS",
+		"name": "Estatística",
+		"weight": 20,
+		"levels": [
+			{
+				"label": "Porcentagens e Probabilidade",
+				"value": 10
+			},
+			{
+				"label": "Análise de Coortes",
+				"value": 60
+			},
+			{
+				"label": "Correlação Estatística",
+				"value": 30
+			}
+		]
+	},
+	{
+		"id": "DESIGN",
+		"name": "Design e Ilustração",
+		"weight": 10,
+		"levels": [
+			{
+				"label": "Cortar e Redimensionar",
+				"value": 10
+			},
+			{
+				"label": "Illustrator ou Inkscape",
+				"value": 60
+			},
+			{
+				"label": "Photoshop ou Gimp",
+				"value": 30
+			}
+		]
+	}
+]

@@ -1,0 +1,16 @@
+{
+	"name": "Estágio na Bloom Studios",
+	"short_name": "Bloom Studios",
+	"start_url": "/",
+	"display": "standalone",
+	"orientation": "portrait",
+	"background_color": "#fff",
+	"theme_color": "#2980ba",
+	"icons": [
+		{
+			"src": "/assets/icon.png",
+			"type": "image/png",
+			"sizes": "512x512"
+		}
+	]
+}
